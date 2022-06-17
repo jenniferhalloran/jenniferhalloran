@@ -1,2 +1,27 @@
 ![Jenn GitHub](https://user-images.githubusercontent.com/48455658/173975844-025b5376-a6c8-42ce-9a8b-c79a9e744f83.png)
-[![Jenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenniferhalloran)](https://github.com/jenniferhalloran/github-readme-stats)
+[![Twitter: jenn_halloran](https://img.shields.io/twitter/follow/jenn_halloran?style=social)](https://twitter.com/jenn_halloran)
+[![Linkedin: jenniferlhalloran](https://img.shields.io/badge/-jenniferlhalloran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jenniferlhalloran/)](https://www.linkedin.com/in/jenniferlhalloran/)
+[![GitHub jenniferhalloran](https://img.shields.io/github/followers/jenniferhalloran?label=follow&style=social)](https://github.com/jenniferhalloran)
+```ruby
+class SoftwareEngineer:
+
+    def initialize
+      @name = "Jenn Halloran"
+      @current_edu = "Turing School of Software and Design"
+      @pronouns = ["she", "her"]
+      @code = { :backend => ["Ruby", "HTML", "CSS", "Rails", "SQL"] }
+      @hobbies = ["Pottery", "Hiking", "Crossfit", "Travelling"]  
+      @currently_learning = "Producing, consuming, and integrating API's"
+    end 
+    
+
+    def say_hi:
+        print "Thanks for dropping by, hope you find some of my work interesting."
+    end
+
+me = SoftwareEngineer.new
+me.say_hi
+
+```
+
+<!--- [![Jenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenniferhalloran)](https://github.com/jenniferhalloran/github-readme-stats) --->
