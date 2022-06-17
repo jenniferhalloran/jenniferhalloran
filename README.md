@@ -3,7 +3,7 @@
 [![Linkedin: jenniferlhalloran](https://img.shields.io/badge/-jenniferlhalloran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jenniferlhalloran/)](https://www.linkedin.com/in/jenniferlhalloran/)
 [![GitHub jenniferhalloran](https://img.shields.io/github/followers/jenniferhalloran?label=follow&style=social)](https://github.com/jenniferhalloran)
 ```ruby
-class SoftwareEngineer:
+class SoftwareEngineer
 
     def initialize
       @name = "Jenn Halloran"
@@ -19,8 +19,11 @@ class SoftwareEngineer:
         print "Thanks for dropping by, hope you find some of my work interesting."
     end
 
+end 
+
 me = SoftwareEngineer.new
 me.say_hi
+
 
 ```
 
