@@ -19,7 +19,7 @@ class SoftwareEngineer
       @pronouns = ["she", "her"]
       @code = { :backend => ["Ruby", "HTML", "CSS", "Rails", "SQL"] }
       @hobbies = ["Pottery", "Hiking", "Crossfit", "Travelling"]  
-      @currently_learning = "GraphQL"
+      @currently_learning = "Javascript"
     end 
     
 
