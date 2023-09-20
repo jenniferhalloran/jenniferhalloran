@@ -21,7 +21,7 @@ class SoftwareEngineer
     end 
     
 
-    def say_hi:
+    def say_hi
         print "Thanks for dropping by, hope you find some of my work interesting."
     end
 
