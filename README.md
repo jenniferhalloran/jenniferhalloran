@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jenniferlhalloran/"><img alt="LinkedIn" src="https://img.shields.io/badge/view%20my-linkedin-black?style=for-the-badge"/></a>
-  <a href="https://twitter.com/jenn_halloran"><img alt="Twitter" src="https://img.shields.io/badge/view%20my-twitter-black?style=for-the-badge"/></a>
 </p> 
 
 <!--- [![Twitter: jenn_halloran](https://img.shields.io/twitter/follow/jenn_halloran?style=social)](https://twitter.com/jenn_halloran)
