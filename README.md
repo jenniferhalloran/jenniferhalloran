@@ -1,5 +1,3 @@
-![Jenn GitHub](https://user-images.githubusercontent.com/48455658/173975844-025b5376-a6c8-42ce-9a8b-c79a9e744f83.png)
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jenniferlhalloran/"><img alt="LinkedIn" src="https://img.shields.io/badge/view%20my-linkedin-black?style=for-the-badge"/></a>
   <a href="https://twitter.com/jenn_halloran"><img alt="Twitter" src="https://img.shields.io/badge/view%20my-twitter-black?style=for-the-badge"/></a>
