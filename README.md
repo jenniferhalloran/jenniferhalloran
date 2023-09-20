@@ -15,11 +15,11 @@ class SoftwareEngineer
 
     def initialize
       @name = "Jenn Halloran"
-      @current_edu = "Turing School of Software and Design"
+      @edu = "Turing School of Software and Design"
       @pronouns = ["she", "her"]
       @code = { :backend => ["Ruby", "HTML", "CSS", "Rails", "SQL"] }
       @hobbies = ["Pottery", "Hiking", "Crossfit", "Travelling"]  
-      @currently_learning = "Go"
+      @currently_learning = "React"
     end 
     
 
