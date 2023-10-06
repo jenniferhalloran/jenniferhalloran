@@ -12,7 +12,7 @@ class SoftwareEngineer
 
     def initialize
       @name = "Jenn Halloran"
-      @edu = "Turing School of Software and Design"
+      @edu = ["Turing School of Software and Design", "University of Delaware"]
       @pronouns = ["she", "her"]
       @code = { :backend => ["Ruby", "HTML", "CSS", "Rails", "SQL"] }
       @hobbies = ["Pottery", "Hiking", "Crossfit", "Travelling"]  
