@@ -15,7 +15,7 @@ class SoftwareEngineer
       @edu = ["Turing School of Software and Design", "University of Delaware"]
       @pronouns = ["she", "her"]
       @code = { :backend => ["Ruby", "HTML", "CSS", "Rails", "SQL"] }
-      @hobbies = ["Pottery", "Hiking", "Crossfit", "Travelling"]  
+      @hobbies = ["Pottery", "Hiking", "Crossfit", "Traveling"]  
       @currently_learning = "React"
     end 
     
